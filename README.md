@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/18548872/README.md)[Uploading README# Pagina_Django
+# Pagina_Django
 Pagina web básica con Django
 
 1. Instalar Django (Si no tienes Django instalado, debes instalarlo primero):
@@ -80,4 +80,3 @@ python manage.py runserver
 
 
 
-.md…]()
