@@ -49,7 +49,7 @@ http://127.0.0.1:8000/paginainicio
 Si todo se configura correctamente y no hay errores en los pasos previos, deberías poder ver la página de inicio sin problemas, recuerda poner 'paginainicio' como en el ejemplo de arriba.
 
 ---------------------
-En caso de error con python volver a instalar el entorno:
+Instalar el entorno virtual:
 
 a. Eliminar el entorno virtual
 Borra la carpeta de tu entorno virtual. En tu caso, está en:
